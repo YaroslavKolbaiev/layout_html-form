@@ -1,1 +1,32 @@
 /* styles go here */
+
+.form-field {
+  font-family: monospace;
+  font-size: 14px;
+  display: block;
+  margin: 10px;
+  margin-top: unset;
+}
+
+.additional {
+  margin-left: 26px;
+}
+
+.Box {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.Header {
+  font-family: monospace;
+  font-size: 16px;
+  position: relative;
+  bottom: 10px;
+  left: 9px;
+  background-color: white;
+  width: fit-content;
+}
+
+button {
+  margin-top: 20px;
+}

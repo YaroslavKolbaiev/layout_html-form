@@ -8,7 +8,7 @@
   margin-top: unset;
 }
 
-.Box {
+fieldset {
   border: 1px solid black;
   margin-top: 20px;
 }
